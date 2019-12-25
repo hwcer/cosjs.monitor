@@ -1,0 +1,37 @@
+{
+  "name": "cosjs.monitor",
+  "description": "nodejs monitor",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "author": {
+    "name": "wanchao.huang",
+    "email": "hwclegend@163.com"
+  },
+  "keywords": [ "game", "mvc" ],
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "dependencies": {
+    "cosjs.loader": "*",
+    "cosjs.library": "*",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "*"
+  },
+  "engines": {
+    "node": "10.0+"
+  },
+  "directories": {
+    "lib": "./lib/"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/hwclegend/cosjs.monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hwclegend/cosjs.monitor/issues"
+  },
+  "homepage": "https://github.com/hwclegend/cosjs.monitor"
+}
