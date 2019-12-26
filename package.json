@@ -15,7 +15,6 @@
     }
   ],
   "dependencies": {
-    "cosjs.loader": "*",
     "cosjs.library": "*",
     "socket.io": "^2.2.0",
     "socket.io-client": "*"
